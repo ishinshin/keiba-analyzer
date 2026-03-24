@@ -1,0 +1,5 @@
+streamlit
+pytrends
+requests
+beautifulsoup4
+lxml
